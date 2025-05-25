@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Long Qian, a third year PhD student in logic at Carnegie Mellon University. I am primarily interested in the interaction between logic
-and computations, and am currently working on differential dynamic logic. Previously, I have worked on computable analysis and neighbouring subjects, such
+Hello! I am Long Qian, a fourth year PhD student in logic at Carnegie Mellon University. I am primarily interested in the interaction between logic
+and computations, and am currently working on completeness properties of differential dynamic logic. Previously, I have worked on computable analysis and neighbouring subjects, such
 as computable Banach spaces and their geometry.

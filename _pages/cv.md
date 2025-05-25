@@ -17,4 +17,4 @@ Education
 
 Research interests
 ======
-Differential dynamic logic, formal methods, computable analysis and computability of dynamical systems
+Differential dynamic logic, Logics for continuous-time systems, Formal methods, Computable analysis and Computability of dynamical systems
