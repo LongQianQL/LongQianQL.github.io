@@ -86,7 +86,7 @@ author:
   location         : 
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=Jh-O2gUAAAAJ&hl=en"
   email            : "longq@andrew.cmu.edu"
   researchgate     :  
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0003-1567-3948"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
